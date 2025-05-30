@@ -1,0 +1,4 @@
+id=vendor
+name=Add support for older firmwares
+author=Fede2782, SalvoGiangreco, @Ksawlii
+description=Adds older tee blobs.
