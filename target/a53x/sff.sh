@@ -91,7 +91,7 @@ SEC_FLOATING_FEATURE_SAIV_CONFIG_AI_REVITAL_VERSION=1.9,1
 SEC_FLOATING_FEATURE_SAIV_CONFIG_MIDAS=UPSCALE,LOWLIGHT,HDR,DEBLUR,MOIRE,DENOISE_DEBLUR,UPSCALE_DEBLUR,PHOTOPOLISH,SHADOW,REFLECTION,UWDC,FLARE
 SEC_FLOATING_FEATURE_VISION_CONFIG_RELIGHTING_SOLUTION=arsoft_vieweronly.v1
 SEC_FLOATING_FEATURE_CAMERA_CONFIG_UW_DISTORTION_CORRECTION=0,109,2,19010102,4000,3000,0,0,0,0
-SEC_FLOATING_FEATURE_CAMERA_CONFIG_VENDOR_LIB_INFO=beauty.samsung.v4,face_landmark.arcsoft.v2_1,facial_attribute.samsung.v1,food.samsung.v1,image_enhance.arcsoft.v1,selfie_correction.samsung.v1,event_detection.samsung.v2,swuwdc.arcsoft.v1,human_tracking_face.arcsoft.v2_1,mfhdr.arcsoft.v1,scene_detection.samsung.v1,llhdr.arcsoft.v1,smart_scan.samsung.v2,single_bokeh.samsung.v2,dual_bokeh.samsung.v1,localtm.samsung.v1_1
+SEC_FLOATING_FEATURE_CAMERA_CONFIG_VENDOR_LIB_INFO=beauty.samsung.v4,face_landmark.arcsoft.v2_1,facial_attribute.samsung.v1,food.samsung.v1,image_enhance.arcsoft.v1,selfie_correction.samsung.v1,event_detection.samsung.v2,swuwdc.arcsoft.v1,human_tracking_face.arcsoft.v2_1,mfhdr.arcsoft.v1,scene_detection.samsung.v1,llhdr.arcsoft.v1,smart_scan.samsung.v2,single_bokeh.samsung.v2,dual_bokeh.samsung.v1,localtm.samsung.v1_1,image_codec.samsung.v1
 SEC_FLOATING_FEATURE_CAMERA_SUPPORT_AI_HIGH_RESOLUTION=1
 
 # Device specific
