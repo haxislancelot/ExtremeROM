@@ -63,9 +63,9 @@ PACK_TO_IMG() {
 }
 
 COPY_TOOLS
-echo "- Extract dtbo"
+echo "-Extract dtbo"
 EXTRACT
-APPLY_DTBO_PATCH "0001-Fix-Adaptive-Refresh-Rate-Color-Flickering.patch"
+APPLY_DTBO_PATCH "0001-Fix-Adaptive-Refresh-Rate-Color-Flickering-m34x.patch"
 CREATE_CFG
 echo "- Repack dtbo"
 PACK_TO_DTBO
